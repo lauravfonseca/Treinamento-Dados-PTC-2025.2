@@ -1,0 +1,254 @@
+﻿id_membro;Nivel_Senioridade;Avaliacao_Tecnica;Avaliacao_Comportamental;Engajamento_PIGs;Score_Desempenho;Status_Membro
+1;Júnior;7,5;8,1;0,9;7,8;Em Destaque
+2;Pleno;8,2;7,5;0,75;7,8;Padrão
+3;Sênior;9,1;9,5;1,0;9,3;Em Destaque
+4;Pleno;6,5;7,0;0,8;6,8;Padrão
+5;Pleno;7,8;8,8;0,82;8,3;Em Destaque
+6;Pleno;8,0;6,5;0,7;7,2;Padrão
+7;Pleno;5,5;6,0;0,5;5,8;Padrão
+8;Pleno;9,0;9,2;0,95;9,1;Em Destaque
+9;Sênior;8,8;8,5;0,85;8,6;Em Destaque
+10;Pleno;7,1;7,3;0,9;7,2;Em Destaque
+11;Pleno;6,9;7,8;0,75;7,4;Padrão
+12;Júnior;7,3;7,7;0,8;7,5;Em Destaque
+13;Pleno;7,9;8,2;0,82;8,0;Em Destaque
+14;Sênior;9,5;9,0;1,0;9,2;Em Destaque
+15;Júnior;6,8;7,1;0,85;7,0;Em Destaque
+16;Pleno;8,1;8,5;0,9;8,3;Em Destaque
+17;Pleno;7,7;7,0;0,7;7,4;Padrão
+18;Pleno;6,0;6,2;0,5;6,1;Padrão
+19;Júnior;8,9;9,0;0,95;9,0;Em Destaque
+20;Sênior;9,2;8,8;0,85;9,0;Em Destaque
+21;Júnior;7,4;7,6;0,9;7,5;Em Destaque
+22;Pleno;7,0;8,0;0,75;7,5;Padrão
+23;Júnior;7,6;7,9;0,8;7,8;Em Destaque
+24;Pleno;8,3;7,9;0,75;8,1;Padrão
+25;Sênior;9,3;9,3;1,0;9,3;Em Destaque
+26;Júnior;6,7;7,2;0,85;7,0;Em Destaque
+27;Pleno;8,4;8,7;0,9;8,6;Em Destaque
+28;Pleno;7,9;7,3;0,7;7,6;Padrão
+29;Pleno;6,2;6,4;0,82;6,3;Padrão
+30;Júnior;8,8;9,1;0,95;9,0;Em Destaque
+31;Sênior;9,0;8,7;0,85;8,8;Em Destaque
+32;Júnior;7,2;7,5;0,9;7,4;Em Destaque
+33;Pleno;7,1;8,1;0,75;7,6;Padrão
+34;Júnior;8,5;8,0;0,9;8,2;Em Destaque
+35;Pleno;7,8;7,2;0,75;7,5;Padrão
+36;Sênior;9,8;9,7;1,0;9,8;Em Destaque
+37;Júnior;6,3;6,8;0,8;6,6;Padrão
+38;Pleno;8,0;8,9;0,82;8,4;Em Destaque
+39;Pleno;8,2;6,7;0,7;7,4;Padrão
+40;Pleno;5,8;6,1;0,5;5,9;Padrão
+41;Júnior;9,2;9,3;0,95;9,2;Em Destaque
+42;Sênior;8,7;8,6;0,85;8,6;Em Destaque
+43;Júnior;7,6;7,4;0,9;7,5;Em Destaque
+44;Pleno;7,3;7,9;0,75;7,6;Padrão
+45;Júnior;7,1;7,5;0,8;7,3;Em Destaque
+46;Pleno;8,4;7,9;0,75;8,2;Padrão
+47;Sênior;9,6;9,1;1,0;9,4;Em Destaque
+48;Júnior;6,9;7,0;0,85;7,0;Em Destaque
+49;Pleno;8,3;8,6;0,9;8,4;Em Destaque
+50;Pleno;7,8;7,1;0,7;7,4;Padrão
+51;Pleno;6,1;6,3;0,82;6,2;Padrão
+52;Júnior;8,7;9,2;0,95;9,0;Em Destaque
+53;Sênior;9,1;8,9;0,85;9,0;Em Destaque
+54;Júnior;7,5;7,7;0,9;7,6;Em Destaque
+55;Pleno;7,2;8,2;0,75;7,7;Padrão
+56;Júnior;7,4;7,8;0,8;7,6;Em Destaque
+57;Pleno;8,1;7,4;0,75;7,8;Padrão
+58;Sênior;9,4;9,2;1,0;9,3;Em Destaque
+59;Júnior;6,6;7,3;0,85;7,0;Em Destaque
+60;Pleno;8,2;8,8;0,9;8,5;Em Destaque
+61;Pleno;8,1;6,8;0,7;7,4;Padrão
+62;Pleno;5,9;6,5;0,5;6,2;Padrão
+63;Júnior;9,1;9,4;0,95;9,2;Em Destaque
+64;Sênior;8,9;8,8;0,85;8,9;Em Destaque
+65;Júnior;7,3;7,8;0,9;7,6;Em Destaque
+66;Pleno;7,4;8,3;0,75;7,8;Padrão
+67;Júnior;7,2;7,6;0,8;7,4;Em Destaque
+68;Pleno;8,5;7,6;0,75;8,0;Padrão
+69;Sênior;9,7;9,4;1,0;9,6;Em Destaque
+70;Júnior;6,4;6,9;0,8;6,6;Padrão
+71;Pleno;7,9;8,7;0,82;8,3;Em Destaque
+72;Pleno;8,3;6,9;0,7;7,6;Padrão
+73;Pleno;5,7;6,0;0,5;5,8;Padrão
+74;Júnior;9,3;9,5;0,95;9,4;Em Destaque
+75;Sênior;8,6;8,7;0,85;8,6;Em Destaque
+76;Júnior;7,7;7,5;0,9;7,6;Em Destaque
+77;Pleno;7,5;8,0;0,75;7,8;Padrão
+78;Júnior;7,0;7,4;0,8;7,2;Em Destaque
+79;Pleno;8,2;7,1;0,75;7,6;Padrão
+80;Sênior;9,9;9,8;1,0;9,9;Em Destaque
+81;Júnior;6,8;7,1;0,8;7,0;Em Destaque
+82;Pleno;8,1;9,0;0,82;8,6;Em Destaque
+83;Pleno;7,9;6,6;0,7;7,2;Padrão
+84;Pleno;6,3;6,2;0,5;6,2;Padrão
+85;Júnior;8,9;9,1;0,95;9,0;Em Destaque
+86;Sênior;9,0;8,9;0,85;9,0;Em Destaque
+87;Júnior;7,4;7,6;0,9;7,5;Em Destaque
+88;Pleno;7,6;8,1;0,75;7,8;Padrão
+89;Júnior;7,3;7,7;0,8;7,5;Em Destaque
+90;Pleno;7,9;8,3;0,75;8,1;Padrão
+91;Sênior;9,5;9,3;1,0;9,4;Em Destaque
+92;Júnior;6,7;7,2;0,85;7,0;Em Destaque
+93;Pleno;8,4;8,8;0,9;8,6;Em Destaque
+94;Pleno;7,8;7,2;0,7;7,5;Padrão
+95;Pleno;6,2;6,4;0,82;6,3;Padrão
+96;Júnior;8,8;9,2;0,95;9,0;Em Destaque
+97;Sênior;9,1;8,8;0,85;9,0;Em Destaque
+98;Júnior;7,1;7,5;0,9;7,3;Em Destaque
+99;Pleno;7,0;8,2;0,75;7,6;Padrão
+100;Júnior;7,6;7,9;0,8;7,8;Em Destaque
+101;Pleno;8,3;7,5;0,75;7,9;Padrão
+102;Sênior;9,3;9,1;1,0;9,2;Em Destaque
+103;Júnior;6,9;7,0;0,85;7,0;Em Destaque
+104;Pleno;8,3;8,7;0,9;8,5;Em Destaque
+105;Pleno;7,7;7,1;0,7;7,4;Padrão
+106;Pleno;6,1;6,3;0,5;6,2;Padrão
+107;Júnior;8,7;9,0;0,95;8,8;Em Destaque
+108;Sênior;9,2;8,9;0,85;9,0;Em Destaque
+109;Júnior;7,5;7,7;0,9;7,6;Em Destaque
+110;Pleno;7,2;8,1;0,75;7,6;Padrão
+111;Júnior;7,4;7,8;0,8;7,6;Em Destaque
+112;Pleno;8,1;7,4;0,75;7,8;Padrão
+113;Sênior;9,4;9,2;1,0;9,3;Em Destaque
+114;Júnior;6,6;7,3;0,85;7,0;Em Destaque
+115;Pleno;8,2;8,9;0,9;8,6;Em Destaque
+116;Pleno;8,1;6,8;0,7;7,4;Padrão
+117;Pleno;5,9;6,5;0,5;6,2;Padrão
+118;Júnior;9,1;9,3;0,95;9,2;Em Destaque
+119;Sênior;8,9;8,8;0,85;8,9;Em Destaque
+120;Júnior;7,3;7,8;0,9;7,6;Em Destaque
+121;Pleno;7,4;8,3;0,75;7,8;Padrão
+122;Júnior;7,2;7,6;0,8;7,4;Em Destaque
+123;Pleno;8,5;7,6;0,75;8,0;Padrão
+124;Sênior;9,7;9,4;1,0;9,6;Em Destaque
+125;Júnior;6,4;6,9;0,8;6,6;Padrão
+126;Pleno;7,9;8,7;0,82;8,3;Em Destaque
+127;Pleno;8,3;6,9;0,7;7,6;Padrão
+128;Pleno;5,7;6,0;0,5;5,8;Padrão
+129;Júnior;9,3;9,5;0,95;9,4;Em Destaque
+130;Sênior;8,6;8,7;0,85;8,6;Em Destaque
+131;Júnior;7,7;7,5;0,9;7,6;Em Destaque
+132;Pleno;7,5;8,0;0,75;7,8;Padrão
+133;Júnior;7,0;7,4;0,8;7,2;Em Destaque
+134;Pleno;8,2;7,1;0,75;7,6;Padrão
+135;Sênior;9,9;9,8;1,0;9,9;Em Destaque
+136;Júnior;6,8;7,1;0,8;7,0;Em Destaque
+137;Pleno;8,1;9,0;0,82;8,6;Em Destaque
+138;Pleno;7,9;6,6;0,7;7,2;Padrão
+139;Pleno;6,3;6,2;0,5;6,2;Padrão
+140;Júnior;8,9;9,1;0,95;9,0;Em Destaque
+141;Sênior;9,0;8,9;0,85;9,0;Em Destaque
+142;Júnior;7,4;7,6;0,9;7,5;Em Destaque
+143;Pleno;7,6;8,1;0,75;7,8;Padrão
+144;Júnior;7,3;7,7;0,8;7,5;Em Destaque
+145;Pleno;7,9;8,3;0,75;8,1;Padrão
+146;Sênior;9,5;9,3;1,0;9,4;Em Destaque
+147;Júnior;6,7;7,2;0,85;7,0;Em Destaque
+148;Pleno;8,4;8,8;0,9;8,6;Em Destaque
+149;Pleno;7,8;7,2;0,7;7,5;Padrão
+150;Pleno;6,2;6,4;0,82;6,3;Padrão
+151;Júnior;8,8;9,2;0,95;9,0;Em Destaque
+152;Sênior;9,1;8,8;0,85;9,0;Em Destaque
+153;Júnior;7,1;7,5;0,9;7,3;Em Destaque
+154;Pleno;7,0;8,2;0,75;7,6;Padrão
+155;Júnior;7,6;7,9;0,8;7,8;Em Destaque
+156;Pleno;8,3;7,5;0,75;7,9;Padrão
+157;Sênior;9,3;9,1;1,0;9,2;Em Destaque
+158;Júnior;6,9;7,0;0,85;7,0;Em Destaque
+159;Pleno;8,3;8,7;0,9;8,5;Em Destaque
+160;Pleno;7,7;7,1;0,7;7,4;Padrão
+161;Pleno;6,1;6,3;0,5;6,2;Padrão
+162;Júnior;8,7;9,0;0,95;8,8;Em Destaque
+163;Sênior;9,2;8,9;0,85;9,0;Em Destaque
+164;Júnior;7,5;7,7;0,9;7,6;Em Destaque
+165;Pleno;7,2;8,1;0,75;7,6;Padrão
+166;Júnior;7,4;7,8;0,8;7,6;Em Destaque
+167;Pleno;8,1;7,4;0,75;7,8;Padrão
+168;Sênior;9,4;9,2;1,0;9,3;Em Destaque
+169;Júnior;6,6;7,3;0,85;7,0;Em Destaque
+170;Pleno;8,2;8,9;0,9;8,6;Em Destaque
+171;Pleno;8,1;6,8;0,7;7,4;Padrão
+172;Pleno;5,9;6,5;0,5;6,2;Padrão
+173;Júnior;9,1;9,3;0,95;9,2;Em Destaque
+174;Sênior;8,9;8,8;0,85;8,9;Em Destaque
+175;Júnior;7,3;7,8;0,9;7,6;Em Destaque
+176;Pleno;7,4;8,3;0,75;7,8;Padrão
+177;Júnior;7,2;7,6;0,8;7,4;Em Destaque
+178;Pleno;8,5;7,6;0,75;8,0;Padrão
+179;Sênior;9,7;9,4;1,0;9,6;Em Destaque
+180;Júnior;6,4;6,9;0,8;6,6;Padrão
+181;Pleno;7,9;8,7;0,82;8,3;Em Destaque
+182;Pleno;8,3;6,9;0,7;7,6;Padrão
+183;Pleno;5,7;6,0;0,5;5,8;Padrão
+184;Júnior;9,3;9,5;0,95;9,4;Em Destaque
+185;Sênior;8,6;8,7;0,85;8,6;Em Destaque
+186;Júnior;7,7;7,5;0,9;7,6;Em Destaque
+187;Pleno;7,5;8,0;0,75;7,8;Padrão
+188;Júnior;7,0;7,4;0,8;7,2;Em Destaque
+189;Pleno;8,2;7,1;0,75;7,6;Padrão
+190;Sênior;9,9;9,8;1,0;9,9;Em Destaque
+191;Júnior;6,8;7,1;0,8;7,0;Em Destaque
+192;Pleno;8,1;9,0;0,82;8,6;Em Destaque
+193;Pleno;7,9;6,6;0,7;7,2;Padrão
+194;Pleno;6,3;6,2;0,5;6,2;Padrão
+195;Júnior;8,9;9,1;0,95;9,0;Em Destaque
+196;Sênior;9,0;8,9;0,85;9,0;Em Destaque
+197;Júnior;7,4;7,6;0,9;7,5;Em Destaque
+198;Pleno;7,6;8,1;0,75;7,8;Padrão
+199;Júnior;7,3;7,7;0,8;7,5;Em Destaque
+200;Pleno;7,9;8,3;0,75;8,1;Padrão
+201;Sênior;9,5;9,3;1,0;9,4;Em Destaque
+202;Júnior;6,7;7,2;0,85;7,0;Em Destaque
+203;Pleno;8,4;8,8;0,9;8,6;Em Destaque
+204;Pleno;7,8;7,2;0,7;7,5;Padrão
+205;Pleno;6,2;6,4;0,82;6,3;Padrão
+206;Júnior;8,8;9,2;0,95;9,0;Em Destaque
+207;Sênior;9,1;8,8;0,85;9,0;Em Destaque
+208;Júnior;7,1;7,5;0,9;7,3;Em Destaque
+209;Pleno;7,0;8,2;0,75;7,6;Padrão
+210;Júnior;7,6;7,9;0,8;7,8;Em Destaque
+211;Pleno;8,3;7,5;0,75;7,9;Padrão
+212;Sênior;9,3;9,1;1,0;9,2;Em Destaque
+213;Júnior;6,9;7,0;0,85;7,0;Em Destaque
+214;Pleno;8,3;8,7;0,9;8,5;Em Destaque
+215;Pleno;7,7;7,1;0,7;7,4;Padrão
+216;Pleno;6,1;6,3;0,5;6,2;Padrão
+217;Júnior;8,7;9,0;0,95;8,8;Em Destaque
+218;Sênior;9,2;8,9;0,85;9,0;Em Destaque
+219;Júnior;7,5;7,7;0,9;7,6;Em Destaque
+220;Pleno;7,2;8,1;0,75;7,6;Padrão
+221;Júnior;7,4;7,8;0,8;7,6;Em Destaque
+222;Pleno;8,1;7,4;0,75;7,8;Padrão
+223;Sênior;9,4;9,2;1,0;9,3;Em Destaque
+224;Júnior;6,6;7,3;0,85;7,0;Em Destaque
+225;Pleno;8,2;8,9;0,9;8,6;Em Destaque
+226;Pleno;8,1;6,8;0,7;7,4;Padrão
+227;Pleno;5,9;6,5;0,5;6,2;Padrão
+228;Júnior;9,1;9,3;0,95;9,2;Em Destaque
+229;Sênior;8,9;8,8;0,85;8,9;Em Destaque
+230;Júnior;7,3;7,8;0,9;7,6;Em Destaque
+231;Pleno;7,4;8,3;0,75;7,8;Padrão
+232;Júnior;7,2;7,6;0,8;7,4;Em Destaque
+233;Pleno;8,5;7,6;0,75;8,0;Padrão
+234;Sênior;9,7;9,4;1,0;9,6;Em Destaque
+235;Júnior;6,4;6,9;0,8;6,6;Padrão
+236;Pleno;7,9;8,7;0,82;8,3;Em Destaque
+237;Pleno;8,3;6,9;0,7;7,6;Padrão
+238;Pleno;5,7;6,0;0,5;5,8;Padrão
+239;Júnior;9,3;9,5;0,95;9,4;Em Destaque
+240;Sênior;8,6;8,7;0,85;8,6;Em Destaque
+241;Júnior;7,7;7,5;0,9;7,6;Em Destaque
+242;Pleno;7,5;8,0;0,75;7,8;Padrão
+243;Júnior;7,0;7,4;0,8;7,2;Em Destaque
+244;Pleno;8,2;7,1;0,75;7,6;Padrão
+245;Sênior;9,9;9,8;1,0;9,9;Em Destaque
+246;Júnior;6,8;7,1;0,8;7,0;Em Destaque
+247;Pleno;8,1;9,0;0,82;8,6;Em Destaque
+248;Pleno;7,9;6,6;0,7;7,2;Padrão
+249;Pleno;6,3;6,2;0,5;6,2;Padrão
+250;Júnior;8,9;9,1;0,95;9,0;Em Destaque
+251;Sênior;9,0;8,9;0,85;9,0;Em Destaque
+252;Júnior;7,4;7,6;0,9;7,5;Em Destaque
+253;Pleno;7,6;8,1;0,75;7,8;Padrão
