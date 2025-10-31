@@ -1,40 +1,41 @@
 # Treinamento-Dados-PTC-2025.2
 
-Desafio de tratamento de dados: Aspirante - Laura Fonseca
+Desafio de tratamento de dados
+Aspirante: Laura Fonseca | lvnf@cin.ufpe.br - laura.vfonseca@ufpe.br
 
-## Documentação do código
- 
-1. Carregamento da Base
-Primeiramente, realizei a leitura do arquivo csv que estava com os dados despadronizados
+## 📌 Descrição do Projeto
 
-2. Padronização da Senioridade
-Mapeamento de diferentes formas de escrita para os níveis de senioridade (Júnior, Pleno, Sênior).
-Preenchimento de valores ausentes com a moda (valor mais frequente).
+Este projeto tem como objetivo aplicar técnicas de tratamento e análise de dados para classificar membros com base em desempenho técnico, comportamental e engajamento em atividades.
 
-3. Tratamento das Avaliações
-Conversão das colunas Avaliacao_Tecnica e Avaliacao_Comportamental para formato numérico.
-Substituição de vírgulas por pontos decimais.
-Imputação de valores ausentes com a média da coluna.
-Arredondamento para uma casa decimal.
+## Documentação do Código
 
-4. Normalização do Engajamento em PIGs
-Remoção de símbolos de porcentagem e valores inválidos.
-Conversão para proporção decimal (ex: 80% → 0.80).
-Imputação de valores ausentes com a média da coluna.
-Arredondamento para duas casas decimais.
+1. **Carregamento da Base**  
+   Leitura da base `Base_Membros_Desempenho.csv` com codificação UTF-8.
 
-5. Cálculo do Score de Desempenho
-Média entre as avaliações técnica e comportamental.
-Arredondamento para uma casa decimal.
+2. **Padronização de Senioridade**  
+   Mapeamento de diferentes formas de escrita para os níveis Júnior, Pleno e Sênior.
 
-6. Classificação dos Membros
-Membros com Score_Desempenho ≥ 7.0 e Engajamento_PIGs ≥ 0.80 são classificados como "Em Destaque".
-Os demais são classificados como "Padrão".
+3. **Tratamento das Avaliações**  
+   Conversão de notas técnicas e comportamentais para formato numérico, com preenchimento de valores ausentes.
 
-7. Exportação das Bases Tratadas
-Salvamento da base tratada em dois formatos:
-CSV (Base_Membros_Tratada.csv) com separador ; e decimal ,.
-Excel (Base_Membros_Tratada.xlsx) com suporte ao openpyxl.
+4. **Normalização do Engajamento**  
+   Conversão de porcentagens para proporções decimais e imputação de valores ausentes.
 
-8. Saída Final
-Impressão das 10 primeiras linhas da base tratada para conferência.
+5. **Cálculo do Score de Desempenho**  
+   Média entre avaliação técnica e comportamental.
+
+6. **Classificação dos Membros**  
+   Membros com Score ≥ 7.0 e Engajamento ≥ 80% são classificados como "Em Destaque"; os demais como "Padrão".
+
+7. **Exportação das Bases Tratadas**  
+   Geração dos arquivos `Base_Membros_Tratada.csv` e `Base_Membros_Tratada.xlsx`.
+
+8. **Saída Final**  
+   Impressão das 10 primeiras linhas da base tratada para conferência.
+
+
+## Saídas Esperadas
+
+- `Base_Membros_Tratada.csv`: base tratada em formato CSV.
+- `Base_Membros_Tratada.xlsx`: base tratada em formato Excel.
+- Impressão das 10 primeiras linhas no terminal.
