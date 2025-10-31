@@ -22,13 +22,13 @@ Este projeto tem como objetivo aplicar técnicas de tratamento e análise de dad
    Conversão de porcentagens para proporções decimais e imputação de valores ausentes.
 
 5. **Cálculo do Score de Desempenho**  
-   Posteriomente calcula-se a média entre avaliação técnica e comportamental.
+   Posteriomente calculei a média entre avaliação técnica e comportamental.
 
 6. **Classificação dos Membros**  
    Os membros com Score ≥ 7.0 e Engajamento ≥ 80% são classificados como "Em Destaque"; os demais como "Padrão".
 
 7. **Exportação das Bases Tratadas**  
-   Geração dos arquivos `Base_Membros_Tratada.csv` e `Base_Membros_Tratada.xlsx`.
+   Assim é feita a geração dos arquivos `Base_Membros_Tratada.csv` e `Base_Membros_Tratada.xlsx`.
 
 8. **Saída Final**  
    Impressão das 10 primeiras linhas da base tratada para conferência.
